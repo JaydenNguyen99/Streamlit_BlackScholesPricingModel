@@ -1,9 +1,9 @@
-import numpy as np
-import pandas as pd
-import streamlit as st
-from scipy.stats import norm
-import math
-import matplotlib.pyplot as plt
-import seaborn as sns
-import time
+numpy
+pandas
+streamlit
+scipy
+math
+matplotlib.pyplot
+seaborn
+time
 
