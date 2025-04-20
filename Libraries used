@@ -1,8 +1,8 @@
-Numpy
-Pandas
-Streamlit
-Scipy
-Math
-Matplotlib
-Seaborn
-Time
+numpy
+pandas
+streamlit
+scipy.stats
+math
+matplotlib.pyplot
+seaborn
+time
